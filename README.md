@@ -12,6 +12,7 @@ Untuk mendapatkan insentif bellcoin maka tata cara yang dilakukan:
    cpuminer.exe -a yespower -o stratum+tcp://nomp.mofumofu.me:3351 -u bbomXCDrC8NRCczeF7JNQLrHtbWmtTU1V6.UDIN_3B
    pause
    ```
+   Simpan dan tutup file tersebut, untuk selanjutnya kita eksekusi.
 4. Jalankan file bat start_mining_bellcoin.bat kemudian akan keluar cmd layar hitam yang berjalan.
 5. Perhatikan apakah ada yang keluar Accepted warna hijau, jika ya maka insentif berjalan normal
 

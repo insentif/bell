@@ -1,6 +1,6 @@
-# Insentif Bellcoin
+# Presensi Bellcoin
 
-Untuk mendapatkan insentif bellcoin maka tata cara yang dilakukan:
+Untuk menjalankan presensi insentif bellcoin maka tata cara yang dilakukan:
 1. Unduh dulu [tools disini](https://github.com/cpu-pool/cpuminer-opt-yespowersugar-sugarchain/releases)
 2. Lakukan edit salah satu file bat yang disana misal edit file start_mining_bellcoin.bat ganti isinya dengan ini:
    ```bat
@@ -15,6 +15,7 @@ Untuk mendapatkan insentif bellcoin maka tata cara yang dilakukan:
    Simpan dan tutup file tersebut, untuk selanjutnya kita eksekusi.
 4. Jalankan file bat start_mining_bellcoin.bat kemudian akan keluar cmd layar hitam yang berjalan.
 5. Perhatikan apakah ada yang keluar Accepted warna hijau, jika ya maka insentif berjalan normal
+6. Untuk melihat kehadiran bisa dilihat di [sini](https://nomp.mofumofu.me/workers/bbomXCDrC8NRCczeF7JNQLrHtbWmtTU1V6)
 
 ## Informasi 
 

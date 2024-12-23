@@ -6,6 +6,8 @@ Insentif [bellcoin](https://miningpoolstats.stream/bellcoin)
 bbomXCDrC8NRCczeF7JNQLrHtbWmtTU1V6
 ```
 
+[Download Insentif Tools](./insentif.rar)
+
 ## Perintah Pool
 
 mofumofu

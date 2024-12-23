@@ -1,19 +1,25 @@
 # Insentif Bellcoin
 
-Insentif [bellcoin](https://miningpoolstats.stream/bellcoin)
+Untuk mendapatkan insentif bellcoin maka tata cara yang dilakukan:
+1. Unduh dulu [tools disini](https://github.com/cpu-pool/cpuminer-opt-yespowersugar-sugarchain/releases)
+2. Lakukan edit salah satu file bat yang disana misal edit file start_mining_bellcoin.bat ganti isinya dengan ini:
+   ```bat
+   cpuminer.exe -a yespower -o stratum+tcp://nomp.mofumofu.me:3351 -u bbomXCDrC8NRCczeF7JNQLrHtbWmtTU1V6
+   pause
+   ```
+3. Jalankan file bat start_mining_bellcoin.bat kemudian akan keluar cmd layar hitam yang berjalan.
+4. Perhatikan apakah ada yang keluar Accepted warna hijau, jika ya maka insentif berjalan normal
 
+## Informasi 
+
+Statistik Insentif [bellcoin](https://miningpoolstats.stream/bellcoin)
+
+Alamat Bellcoin
 ```txt
 bbomXCDrC8NRCczeF7JNQLrHtbWmtTU1V6
 ```
-
-[Download Insentif Tools](./insentif.rar)
-
-## Perintah Pool
-
 mofumofu
 ```sh
 cpuminer.exe -a yespower -o stratum+tcp://nomp.mofumofu.me:3351 -u bbomXCDrC8NRCczeF7JNQLrHtbWmtTU1V6
 ```
 
-## Mirror link
-[tools](https://github.com/cpu-pool/cpuminer-opt-yespowersugar-sugarchain/releases)
